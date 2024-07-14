@@ -23,3 +23,5 @@ while true { // obviously a break condition will be needed at some point
     (cpu.instructions[op as usize].execute)(&instruction, &mut cpu);
 }
 ```
+
+Created by Streanga Sarmis-Stefan
